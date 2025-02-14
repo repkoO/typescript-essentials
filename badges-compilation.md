@@ -13,4 +13,4 @@ Collection of badges:
 
 ## Reflections
 
-[...] TODO// ADD reflection
+It was very interesting to discover new knowledge and deep into typescript. Perhaps this task will not mark so it's end of my reflection.
